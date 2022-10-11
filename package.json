@@ -3,6 +3,5 @@
     "description": "Framework for Experiments",
     "url": "https://github.com/Wiz-IO/framework-wizio-TEST",
     "system": "*",
-    "version": "1.0.0",
-    "url-pico-sdk" : "https://github.com/raspberrypi/pico-sdk"
+    "version": "1.4.0"
 }
